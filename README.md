@@ -1,10 +1,11 @@
 ## VR For Healthcare in Africa
 
-This is a VR course project for CIS6930 VR For Social Good Spring 2018 in University of Florida.
+This is a course project for CIS6930/4930 VR For Social Goods in University of Florida, developed through Unity3D. The goal of the project is to create a Virtual Reality-based application to replace telemedicine practices using Android-based mobile devices in remote locations in developing countries, especially in the continent of Africa. The experience utilizes the goal to provide medical services to people in remote parts of Africa.
+
 ### Product Owner:
 John Gachago
 
-### Group member:
+### Team member:
 Advait Ambeskar  
 Kshitij Ranganath  
 Shreya Nirmalan  
